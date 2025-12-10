@@ -56,7 +56,7 @@ distribution - Failure probability vs cycles - MTBF estimate
 
 ### Monte Carlo Fatigue Life Distribution
 
-![Monte Carlo Life](monte_carlo_life_distribution.png)
+([monte_carlo_life_distribution.png](https://github.com/YSayaovong/Fatigue-and-Reliability-Engine/blob/main/assets/monte_carlo_life_distribution.png))
 
 ------------------------------------------------------------------------
 
@@ -90,8 +90,3 @@ to disk.
 
 ------------------------------------------------------------------------
 
-## 👤 Author
-
-**Yengkong V. Sayaovong**\
-Industrial Systems & Reliability Engineer\
-Mechanical Design • Software • Data • Automation
