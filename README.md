@@ -48,15 +48,14 @@ distribution - Failure probability vs cycles - MTBF estimate
 
 ------------------------------------------------------------------------
 
-## 📊 Example Outputs
+## 📊 Outputs
 
 ### Weibull Reliability Curve
-
-![Weibull Reliability](weibull_reliability.png)
+![Weibull Reliability](assets/weibull_reliability.png)
 
 ### Monte Carlo Fatigue Life Distribution
+![Monte Carlo Life](assets/monte_carlo_life_distribution.png)
 
-([monte_carlo_life_distribution.png](https://github.com/YSayaovong/Fatigue-and-Reliability-Engine/blob/main/assets/monte_carlo_life_distribution.png))
 
 ------------------------------------------------------------------------
 
